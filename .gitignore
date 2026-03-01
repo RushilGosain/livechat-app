@@ -15,7 +15,6 @@ out/
 .clerk/
 
 # Convex generated
-convex/_generated/
 
 # OS
 .DS_Store
